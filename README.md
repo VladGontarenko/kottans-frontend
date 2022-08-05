@@ -9,13 +9,16 @@
 Гра learngitbranching.js.org на деяких етапах було доволі складною. Є цікаві моменти з rebase і cherry-pick, які можна розлядати як міні довідник і повернутися за потреби.
 
 Чудова книжка
-[https://git-scm.com/book/uk/v2](https://git-scm.com/book/uk/v2 "Pro Git")
+[Pro Git](https://git-scm.com/book/uk/v2 "Pro Git")
 
-Важливо! Мені не вдалося налаштувати авторизацію з GitHub по HTTPS-протоколу - мабуть з-за Windows 7 (чи я чогось не зрозумів). Тому конектився за допомою SSH. Тут все є:[https://docs.github.com/en/authentication/connecting-to-github-with-ssh) 
+<!-- Важливо! Мені не вдалося налаштувати авторизацію з GitHub по HTTPS-протоколу за допомогою логіна і пароля- мабуть з-за Windows 7 (чи я чогось не зрозумів). Тому конектився за допомою SSH. Тут все є:[https://docs.github.com/en/authentication/connecting-to-github-with-ssh)  -->
 
 <!-- ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) -->
 
 ## Linux CLI, and HTTP
+Команди Linux - ностальгія, для того, хто пам'ятає DOS. Просто і доступно. Додало впевненості для роботи в Git Bash.
+
+### Завдання:
 
 <details>
 <summary>Перший модуль</summary>
@@ -39,4 +42,8 @@
 <summary>Четвертий модуль</summary>
 
 ![modul_1](./task_linux_cli/modul_4.jpg)
-</details>
+</details> 
+
+______
+
+Щодо прочитанного по HTTP - тільки практика допоможе засвоїти такий матеріал. 
