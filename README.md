@@ -80,3 +80,34 @@ ______
 ![modul_4](./task_git_collaboration/week_4.jpg)
 </details> 
 
+
+## Intro to HTML and CSS
+
+Матеріал на Coursera та Codecademy вдало один одного поєднують. Про щось більше поки-що говорити зарано.
+
+
+#### Завдання:
+
+<details>
+<summary>Intro to HTML & CSS - Week 1</summary>
+
+![modul_1](./task_html_css_intro/html_intro_week_1.jpg)
+</details>
+
+<details>
+<summary>Intro to HTML & CSS - Week 2</summary>
+
+![modul_2](././task_html_css_intro/html_intro_week_2.jpg)
+</details>
+
+<details>
+<summary>Learn HTML @ Learn CSS</summary>
+
+![modul_3](./task_html_css_intro/codecademy_html_css.jpg)
+</details>
+
+<!-- <details>
+<summary>Introduction to Git and GitHub_Week_4</summary>
+
+![modul_4](./task_git_collaboration/week_4.jpg)
+</details>  -->
