@@ -106,8 +106,20 @@ ______
 ![modul_3](./task_html_css_intro/codecademy_html_css.jpg)
 </details>
 
-<!-- <details>
-<summary>Introduction to Git and GitHub_Week_4</summary>
+## Responsive Web Design
 
-![modul_4](./task_git_collaboration/week_4.jpg)
-</details>  -->
+Відео від "Фрілансера по життю" дуже якісні.
+
+#### Завдання:
+
+<details>
+<summary>Flexbox_froggy</summary>
+
+![modul_1](./task_responsive_web_design/flexbox_froggy.jpg)
+</details>
+
+<details>
+<summary>Grid_garden</summary>
+
+![modul_2](./task_responsive_web_design/grid_garden.jpg)
+</details>
